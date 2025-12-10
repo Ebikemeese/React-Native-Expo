@@ -1,4 +1,7 @@
 {
+  "cli": {
+    "appVersionSource": "local"
+  },
   "build": {
     "preview": {
       "android": {
@@ -7,3 +10,4 @@
     }
   }
 }
+// https://expo.dev/artifacts/eas/iHwNu8RgegJ6Krif4yxb3h.apk
